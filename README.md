@@ -10,7 +10,7 @@ Bounding Box annotations for ACID dataset
 Dataset provided for research purpose ping dataset request on Email: 2018pec901@sggs.ac.in
 
 ## Wheat head deetction results on ACID and SPIKE dataset.
-![Dataset figure](dataset.png)
+![Dataset figure](ACID_SPIKE.png)
 
 
 # Please cite our paper if you are using dataset
