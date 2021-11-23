@@ -1,4 +1,4 @@
-# Paper published CVPPA workshop at ICCV-2121
+# Paper published CVPPA workshop at ICCV-2021
 
 [Paper Link](https://openaccess.thecvf.com/content/ICCV2021W/CVPPA/papers/Bhagat_WheatNet-Lite_A_Novel_Light_Weight_Network_for_Wheat_Head_Detection_ICCVW_2021_paper.pdf)
 
