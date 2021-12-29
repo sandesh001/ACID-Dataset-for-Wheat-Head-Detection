@@ -12,6 +12,7 @@ Dataset provided for research purpose ping dataset request on Email: 2018pec901@
 ## Wheat head deetction results on ACID and SPIKE dataset.
 ![Dataset figure](ACID_SPIKE.png)
 
+Green boxes represents ground truth and red boxes represents prediction
 
 # Please cite our paper if you are using dataset
 
